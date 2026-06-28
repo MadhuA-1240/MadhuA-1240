@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Akkala Madhulatha
 
-<!--
-**MadhuA-1240/MadhuA-1240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech CSE Student | 📊 Aspiring Data Analyst | 💻 Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am passionate about Data Analytics, Machine Learning, and solving real-world problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE (2023–2027)
+- 📊 Aspiring Data Analyst
+- 🌱 Currently learning SQL, Power BI, Tableau and Advanced Python
+- 💡 Interested in Data Analytics, Machine Learning & AI
+- 🎯 Goal: Get placed as a Data Analyst
+
+---
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Machine Learning
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+🔹 Customer Churn Prediction
+
+🔹 Diabetes Prediction
+
+🔹 Breast Cancer Detection
+
+🔹 Sales Data Analysis
+
+🔹 Customer Data Analysis
+
+🔹 Student Management System (Java)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn:
+https://linkedin.com/in/madhulatha-akkala-abab51373
+
+📧 Email:
+madhulathaakkala1240@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
