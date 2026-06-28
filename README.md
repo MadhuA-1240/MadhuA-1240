@@ -124,7 +124,13 @@
 
 # 🏅 Certifications
 
-✔ Deloitte Australia – Data Analytics Job Simulation (Forage)
+- ✅ Deloitte Australia – Data Analytics Job Simulation (Forage)
+- ✅ Tata – GenAI Powered Data Analytics Job Simulation (Forage)
+- ✅ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- ✅ NPTEL Elite – Human Computer Interaction (96%)
+- ✅ NPTEL Elite – The Joy of Computing using Python
+- ✅ Data Analytics Internship Training – Internship Studio
+- ✅ Data Analyst 101 – Simplilearn
 
 ---
 
