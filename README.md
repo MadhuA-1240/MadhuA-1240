@@ -26,28 +26,18 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering (2023–2027)
+I am a final-year Computer Science Engineering student passionate about Data Analytics, Machine Learning, and Software Development. I enjoy transforming raw data into meaningful insights using Python, SQL, Power BI, and Tableau. Through hands-on projects and industry certifications, I continuously improve my analytical, programming, and problem-solving skills. I am actively seeking opportunities where I can contribute, learn, and grow as a technology professional.
 
-📊 Passionate about Data Analytics & Business Intelligence
-
-💻 Love solving real-world problems using data
-
-🌱 Currently learning Advanced SQL, Power BI and Tableau
-
-🤖 Interested in Machine Learning & Artificial Intelligence
-
-🎯 Goal: Become a Data Analyst in a top IT company
 
 ---
 # 🎓 Education
 
-**B.Tech in Computer Science & Engineering**
+**Bachelor of Technology (B.Tech)**
+**Computer Science & Engineering**
+🏫 Hindu College of Engineering and Technology, Guntur
+📅 2023 – 2027
+📊 CGPA: **8.86 / 10**
 
-Hindu College of Engineering and Technology
-
-2023 – 2027
-
-CGPA: 8.86
 
 # 🛠 Tech Stack
 
@@ -76,15 +66,13 @@ CGPA: 8.86
 
 # 🌱 Currently Learning
 
-• Advanced SQL
+* Advanced SQL
+* Power BI Dashboard Development
+* Tableau Visualization
+* Data Structures & Algorithms
+* Machine Learning
+* Git & GitHub Best Practices
 
-• Power BI Dashboard Development
-
-• Tableau
-
-• Data Structures & Algorithms
-
-• Machine Learning
 
 # 📊 GitHub Statistics
 
@@ -111,17 +99,6 @@ CGPA: 8.86
 
 
 
-# 🚀 Featured Projects
-
-Explore my pinned repositories below to see my work in:
-
-* 📊 Data Analytics
-* 🤖 Machine Learning
-* 🐍 Python Development
-* ☕ Java Applications
-* 📈 Business Intelligence
-
-Each repository contains project documentation, source code, and implementation details.
 
 
 ---
@@ -141,7 +118,8 @@ Each repository contains project documentation, source code, and implementation 
 
 # 🎯 Career Objective
 
-I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. My goal is to contribute to data-driven decision-making while continuously improving my analytical and technical skills.
+I am a Computer Science Engineering student passionate about Data Analytics, Software Development, and Machine Learning. My goal is to build innovative, data-driven solutions while continuously learning and contributing to impactful technology projects.
+
 
 # 📬 Connect With Me
 
