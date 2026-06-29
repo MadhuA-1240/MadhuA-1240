@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Madhulatha Akkala
 
-### 🎓 B.Tech CSE Student | 📊 Aspiring Data Analyst | 💻 Python Developer
+### 💻 Computer Science Engineer | 📊 Data Analytics | 🤖 Machine Learning | 🐍 Python
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;Power+BI+%7C+SQL+%7C+Tableau;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 
