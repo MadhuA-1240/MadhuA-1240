@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Akkala Madhulatha
+# 👋 Hi, I'm Madhulatha Akkala
 
 ### 🎓 B.Tech CSE Student | 📊 Aspiring Data Analyst | 💻 Python Developer
 
@@ -87,7 +87,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MadhuA-1240&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MadhuA-1240&theme=algolia&row=1&column=6&margin-w=15"/>
 
 </p>
 
